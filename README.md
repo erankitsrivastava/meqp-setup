@@ -9,7 +9,7 @@ sudo ./meqp-setup-xampp.sh
 
 
 
-#How to Use
+# How to Use
 
 
 To generate the report:
@@ -17,7 +17,7 @@ To generate the report:
 phpcs --report=xml --report-file=pat/where/have/to/generate/report/report-8.xml /path/of/the/modules/ --standard=MEQP2 --severity=8 -p
 
 
-#Some Extras
+# Some Extras
 
 ===================================================================================================
 Updated version
