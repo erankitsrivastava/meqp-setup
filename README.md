@@ -1,6 +1,7 @@
 # meqp-setup
 
 Run the below commands :
+
 cd move_to_the_correct_directory_with_correct_permission
 
 wget https://raw.githubusercontent.com/erankitsrivastava/meqp-setup/master/meqp-setup-xampp.sh
